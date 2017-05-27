@@ -7,6 +7,7 @@ public class showGit {
 
 		System.out.println("git test");
 		System.out.println("git second test");
+		System.out.println("git third test");
 	}
 
 }
