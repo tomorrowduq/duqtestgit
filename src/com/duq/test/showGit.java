@@ -6,6 +6,7 @@ public class showGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("git test");
+		System.out.println("git second test");
 	}
 
 }
